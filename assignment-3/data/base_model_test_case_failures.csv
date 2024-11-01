@@ -1,0 +1,5 @@
+premise,hypothesis,label,predicted_label
+This church choir sings to the masses as they sing joyous songs from the book at a church.,The church has cracks in the ceiling.,1,0
+Two men climbing on a wooden scaffold.,Two sad men climbing on a wooden scaffold.,1,0
+"A man in a black shirt, in a commercial kitchen, holding up meat he took out of a bag.","A man in a black shirt, in a commercial kitchen, holding up the old meat he took out of a bag.",1,0
+a woman in a black shirt looking at a bicycle.,A woman dressed in black shops for a bicycle.,1,0

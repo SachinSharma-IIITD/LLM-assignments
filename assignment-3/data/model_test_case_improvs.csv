@@ -1,0 +1,4 @@
+premise,hypothesis,label,predicted_label
+Two men climbing on a wooden scaffold.,Two sad men climbing on a wooden scaffold.,1,1
+"A man in a black shirt, in a commercial kitchen, holding up meat he took out of a bag.","A man in a black shirt, in a commercial kitchen, holding up the old meat he took out of a bag.",1,1
+a woman in a black shirt looking at a bicycle.,A woman dressed in black shops for a bicycle.,1,1
